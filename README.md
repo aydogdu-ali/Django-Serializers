@@ -20,9 +20,11 @@
 
 ![image](https://user-images.githubusercontent.com/108414013/210173714-10af5ab7-60a8-4271-afc4-526a8514658e.png)
 
-Bu uygulamayı ayağı kaldırmak için sırasıyla; python -m venv env
+Bu uygulamayı ayağı kaldırmak için sırasıyla; 
 
-Önce .env dosyası oluşturup burada içine "SECRET_KEY" değişkeni oluşturup value olarak =065843865654654&/()%&/+^&^+())%+4  yazabilirsiniz
+python -m venv env
+
+sonra .env dosyası oluşturup burada içine "SECRET_KEY" değişkeni oluşturup value olarak =065843865654654&/()%&/+^&^+())%+4  yazabilirsiniz
 
 source env/Scripts/Activate (windows-bash için)
 
